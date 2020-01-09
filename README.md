@@ -1,7 +1,9 @@
 # CONSOMMER UNE API with AXIOS
 
 https://fr.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+
 https://github.com/axios/axios
+
 https://api.coindesk.com/v1/bpi/currentprice.json
 
 Ci-dessous, des questions que je me suis posée.
